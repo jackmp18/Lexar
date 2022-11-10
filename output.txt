@@ -1,13 +1,12 @@
-token     lexeme
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
-test test 
+Token                Lexeme
+---------------------------------------
+Keyword              while
+Seperator            (
+Identifier           s
+Identifier           <
+Identifier           upper
+Seperator            )
+Identifier           t
+Operator             =
+Real                 33.00
+Seperator            ;
